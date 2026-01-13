@@ -26,7 +26,7 @@ The model also maps AQI values into categories such as:
 
 ---
 
-## 🎯 Objective
+## Objective
 The primary objective of this project is to **predict AQI values** using pollutant concentration data and location-based metadata.  
 By leveraging **regularized linear models (Ridge and Lasso Regression)**, the project delivers:
 - Interpretable predictions  
@@ -104,7 +104,7 @@ Retained the most relevant columns:
 
 ---
 
-## 🔍 Insights & Interpretation
+## Insights & Interpretation
 - The model generalizes well across training and testing datasets  
 - Very low bias and variance → **No underfitting or overfitting**  
 - Ridge Regression provides the most stable and accurate predictions  
@@ -120,7 +120,7 @@ Retained the most relevant columns:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how regression-based machine learning models can effectively predict AQI using pollutant data.  
 The insights generated can help policymakers and environmental agencies take proactive steps toward improving air quality and public health.
 
