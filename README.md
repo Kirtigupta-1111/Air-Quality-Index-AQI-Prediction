@@ -99,8 +99,8 @@ Retained the most relevant columns:
 | Test R² | 0.7962 | 0.7970 | 0.7966 |
 | Generalization Gap | 0.0004 | 0.0004 | 0.0000 |
 
-🔹 **Best Model:** Ridge Regression  
-🔹 **Best R² Score:** 0.7978 (α = 0.01 after tuning)
+**Best Model:** Ridge Regression  
+**Best R² Score:** 0.7978 (α = 0.01 after tuning)
 
 ---
 
